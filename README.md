@@ -1,0 +1,1 @@
+# PythonFak-riyelHesaplama
